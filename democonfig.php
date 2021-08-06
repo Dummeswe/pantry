@@ -1,9 +1,9 @@
 <?php
 
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'aragon');
+define('DB_SERVER', 'localserveraddress');
+define('DB_USERNAME', 'username');
 define('DB_PASSWORD', 'password');
-define('DB_NAME', 'inventory');
+define('DB_NAME', 'nameofdatabase');
 
 //connect
 try{
